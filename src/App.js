@@ -12,16 +12,8 @@ import About from './pages/About';
 
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
-        <Route exact path="/about">
-          <About />
-        </Route>
-      </Switch>
-    </Router>
+    <>
+    </>
   );
 }
 
